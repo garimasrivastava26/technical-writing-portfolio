@@ -18,6 +18,9 @@ Sample API documentation created while learning REST API documentation.
 
 Task-based documentation designed to help users complete common workflows.
 
+- [MyTask Quick Start Guide](user-guides/quick-start-guide.md)
+- [MyTask User Guide](user-guides/user-guide.md)
+
 ## About Me
 
 I am a former Software Engineer with 7.6 years of experience in software development, debugging, testing, code reviews, and client communication. After a career break, I am building a portfolio in technical writing by creating clear, structured, and user-focused documentation.
