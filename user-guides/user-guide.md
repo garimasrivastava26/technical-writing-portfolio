@@ -1,3 +1,5 @@
+# MyTask User Guide
+
 ## Table of Contents
 
 - [1. Introduction](#introduction)
@@ -90,7 +92,7 @@ Follow these steps to mark a task as complete:
 3. Press **Enter**.
 4. Click the task in the search results.
 5. Select the **Completion date**.
-6. Click ** Complete**.
+6. Click **Complete**.
 7. Verify that the task status is displayed as **Completed** before exiting the application.
 
 ## Troubleshooting
