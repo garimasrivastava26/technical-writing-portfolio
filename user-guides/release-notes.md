@@ -1,6 +1,7 @@
 # MyTask Release Notes
 
 **Version:** 1.1
+
 **Release Date:** August 12, 2026
 
 ## What's New
