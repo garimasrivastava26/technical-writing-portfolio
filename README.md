@@ -20,6 +20,7 @@ Task-based documentation designed to help users complete common workflows.
 
 - [MyTask Quick Start Guide](user-guides/quick-start-guide.md)
 - [MyTask User Guide](user-guides/user-guide.md)
+- [MyTask Release Notes](user-guides/release-notes.md)
 
 ## About Me
 
