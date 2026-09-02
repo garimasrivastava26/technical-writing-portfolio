@@ -14,6 +14,8 @@ Markdown practice documents demonstrating structured writing and formatting.
 
 Sample API documentation created while learning REST API documentation.
 
+- [MyTask OpenAPI Documentation](api-documentation/openapi.yaml)
+
 ### User Guides
 
 Task-based documentation designed to help users complete common workflows.
