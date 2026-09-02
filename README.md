@@ -6,10 +6,6 @@ This repository contains documentation samples created as part of my transition 
 
 ## Contents
 
-### Markdown
-
-Markdown practice documents demonstrating structured writing and formatting.
-
 ### API Documentation
 
 Sample API documentation created while learning REST API documentation.
