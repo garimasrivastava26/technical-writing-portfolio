@@ -11,6 +11,7 @@ This repository contains documentation samples created as part of my transition 
 Sample API documentation created while learning REST API documentation.
 
 - [MyTask OpenAPI Documentation](api-documentation/openapi.yaml)
+- [OpenWeather API Documentation](api-documentation/openweather-api.md)
 
 ### User Guides
 
