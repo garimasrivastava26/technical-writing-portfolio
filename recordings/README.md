@@ -1,15 +1,25 @@
-# Portfolio Walkthrough Recordings
+# MyTask Documentation Walkthroughs
 
-This folder contains video walkthroughs of my technical writing portfolio samples.
+This folder contains video walkthroughs demonstrating the documentation created for MyTask, a fictional desktop-based task management application.
 
-## 1. MyTask Quick Start Guide
+The videos are part of my technical writing portfolio and demonstrate how different types of technical documentation can be presented clearly.
 
-A walkthrough of the MyTask Quick Start Guide, covering its structure, prerequisites, installation documentation, and key user workflows.
+# Walkthrough Videos
 
-**Video:** [Watch the MyTask Quick Start Guide walkthrough](mytask-quick-start-walkthrough.mp4)
+## 1. Quick Start Guide
 
-## 2. MyTask User Guide
+Demonstrates the structure and key sections of a Quick Start Guide, including installation, launching the application, creating a task, and marking it as complete.
 
-A walkthrough of the MyTask User Guide, covering the application's features, task management procedures, troubleshooting guidance, and frequently asked questions.
+[Watch or download the Quick Start Guide walkthrough](mytask-quick-start-walkthrough.mp4)
 
-**Video:** [Watch the MyTask User Guide walkthrough](mytask-user-guide-walkthrough.mp4)
+## 2. User Guide
+
+Demonstrates how a User Guide is organised to help users understand the application's features, manage tasks, troubleshoot common issues, and find answers to frequently asked questions.
+
+[Watch or download the User Guide walkthrough](mytask-user-guide-walkthrough.mp4)
+
+## 3. Release Notes
+
+Demonstrates how release notes communicate new features, enhancements, bug fixes, and known issues in a particular version.
+
+[Watch or download the Release Notes walkthrough](mytask-release-notes-walkthrough.mp4)
