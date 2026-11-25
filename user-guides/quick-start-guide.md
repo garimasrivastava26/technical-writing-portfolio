@@ -39,10 +39,11 @@ Follow these steps to launch MyTask:
 
 Follow these steps to create your first task:
 
-1. Click  **New Task**.
+1. Click **New Task**.
 2. Enter the task name.
 3. Optionally, choose a due date.
-4. Click **Save**.
+4. Optionally, select a category.
+5. Click **Save**.
 
 ## Mark a Task as Complete
 
