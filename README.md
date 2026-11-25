@@ -8,9 +8,10 @@ This repository contains documentation samples created as part of my transition 
 
 ### API Documentation
 
-Sample API documentation created while learning REST API documentation.
+Sample API documentation created to demonstrate REST API documentation skills.
 
 - [MyTask OpenAPI Documentation](api-documentation/openapi.yaml)
+- [OpenWeather API Documentation](api-documentation/openweather-api.md)
 
 ### User Guides
 
@@ -19,6 +20,10 @@ Task-based documentation designed to help users complete common workflows.
 - [MyTask Quick Start Guide](user-guides/quick-start-guide.md)
 - [MyTask User Guide](user-guides/user-guide.md)
 - [MyTask Release Notes](user-guides/release-notes.md)
+
+### Open-Source Documentation Contribution
+
+- [Rive Docs — Text Runs Documentation](https://github.com/rive-app/rive-docs/pull/932)
 
 ## About Me
 
